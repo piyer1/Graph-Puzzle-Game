@@ -4,13 +4,17 @@ This is a graph-based strategy puzzle game where players are challenged to maxim
 
 ---
 
-## 🎯 Game Objective
+## Game Objective
 
 Traverse the graph in such a way that you collect the **maximum possible score**, visiting each edge at most once. Strategy, pattern recognition, and optimization are key to climbing the leaderboard.
 
+<p align="center">
+  <img src="assets/graph.png" alt="Example Graph" width="300"/>
+</p>
+
 ---
 
-## 🕹️ Game Modes
+## Game Modes
 
 ### 🗓️ Daily Challenge
 - A new graph is generated every day.
